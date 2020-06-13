@@ -266,7 +266,10 @@ Restaurant menu style
 /**opening hours**/
 .opening-hours {
   padding-top: 80px;
-  padding-bottom: 50px; }
+  padding-bottom: 50px;
+  background-image: url("../img//resto/front.png");
+  background-size: 100% 100%;
+  background-color: rgba(114, 182, 120, 1); }
   .opening-hours .center-title h3 {
     color: #fff; }
   .opening-hours .center-title .center-line {
