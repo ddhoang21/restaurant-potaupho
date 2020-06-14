@@ -208,7 +208,7 @@ h1, h1, h3, h4, h5, h6 {
 .about-section {
   padding-top: 80px;
   padding-bottom: 50px;
-  background-color: #fff; }
+  background-color: #f1f1f1; }
 
 .img-service-box {
   margin-bottom: 30px; }
@@ -267,7 +267,7 @@ Restaurant menu style
 .opening-hours {
   padding-top: 80px;
   padding-bottom: 50px;
-  background-image: url("../img//resto/front.png");
+  background-image: url("../img//resto/terrace.png");
   background-size: 100% 100%;
   background-color: rgba(114, 182, 120, 1); }
   .opening-hours .center-title h3 {
